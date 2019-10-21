@@ -1,2 +1,2 @@
 # U2A desktop app
-U2A desktop app on Unity engine
+U2A desktop application on Unity engine
