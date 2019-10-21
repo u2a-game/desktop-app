@@ -1,2 +1,2 @@
-# U2A desktop app
-U2A desktop application on Unity engine
+# U2A desktop application
+U2A is the game on Unity engine
